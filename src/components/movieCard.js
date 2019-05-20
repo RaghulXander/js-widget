@@ -1,6 +1,6 @@
 import { h, Component } from 'preact';
 
-import StarRating from './StarRating';
+import StarRating from './starRating';
 import style from './style'
 
 export default class MovieCard extends Component {
