@@ -8,19 +8,18 @@ $white-sand: #FAF8F5;
 
 html,
 body {
-  width: 100%;
   height: 100%;
+  overflow: auto;
 }
 
 .movieCard {
-  margin-left: 10px;
-  margin-bottom: 10px;
   padding: 20px;
   max-width: 300px;
   width: 300px;
   background: $beige;
   color: $facebook-blue;
   border-radius: 4px; 
+  margin: auto;
 
   img {
     width: 150px;
@@ -39,6 +38,7 @@ body {
 
 body {
   background: $black;
+  margin: 0;
   font-family: 'Stylish', sans-serif;
 }
 
@@ -51,18 +51,5 @@ h6 {
   margin: 5px 0;
   font-size: 14px;
   color: #261032;
-}
-
-.container,
-.demo-box {
-  width: 100%;
-  height: 100%;
-}
-
-.movie-card-widget {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
 }
 
