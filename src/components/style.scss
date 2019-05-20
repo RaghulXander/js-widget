@@ -8,8 +8,11 @@ $white-sand: #FAF8F5;
 
 html,
 body {
-  height: 100%;
   overflow: auto;
+}
+
+body {
+  height: 100%;
 }
 
 .movieCard {
