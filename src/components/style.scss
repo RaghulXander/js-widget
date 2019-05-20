@@ -6,6 +6,12 @@ $google-red: #EA4335;
 $facebook-blue: #3b5998;
 $white-sand: #FAF8F5;
 
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
 .movieCard {
   margin-left: 10px;
   margin-bottom: 10px;
@@ -45,5 +51,18 @@ h6 {
   margin: 5px 0;
   font-size: 14px;
   color: #261032;
+}
+
+.container,
+.demo-box {
+  width: 100%;
+  height: 100%;
+}
+
+.movie-card-widget {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
