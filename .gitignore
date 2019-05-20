@@ -9,7 +9,7 @@
 node_modules/
 
 # ignore build
-build/
+# build/
 
 # ignore test coverage
 coverage.data
