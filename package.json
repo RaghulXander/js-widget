@@ -72,7 +72,7 @@
   },
   "dependencies": {
     "preact": "^7.1.0",
-    "preact-compat": "^3.18.5",
+    "preact-compat": "^3.19.0",
     "preact-habitat": "^3.2.2",
     "promise-polyfill": "^6.1.0",
     "proptypes": "^0.14.3",
