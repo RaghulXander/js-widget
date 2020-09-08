@@ -76,7 +76,7 @@
     "preact-habitat": "^3.2.2",
     "promise-polyfill": "^6.1.0",
     "proptypes": "^0.14.3",
-    "serve": "^2.0.0"
+    "serve": "^10.1.2"
   },
   "main": "webpack.config.babel.js",
   "directories": {
